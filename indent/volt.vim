@@ -4,4 +4,4 @@ if exists("b:did_indent")
 endif
 
 " Use PHP formatting rules.
-runtime! indent/php.vim
+runtime! indent/html.vim
